@@ -28,7 +28,7 @@ ConCode is a space to explore data science techniques applied to cultural herita
 
 # ConCode
 
-ConCode ('Conservators who want to code') is a meeting space for discussing, showcasing and asking questions about data science & coding, and how it can be applied in the museum world. Coding can seem intimidating at first so a space to discuss the challenges has been created to allow museum workers to discuss and develop tools in an informal environment. It’ll be assumed that we’re all new to coding and this will be a ‘safe-space’ where we can ask any questions, no matter how small or large and work together to answer them. Some background talks are available here from the Icon ‘Together at Home’ webinar series below. This space is not limited to Conservators and anybody interested in using data science in the cultural heritage.  
+ConCode ('Coding for Conservators' and other heritage professionals) is a meeting space for discussing, showcasing and asking questions about data science & coding, and how it can be applied in the museum world. Coding can seem intimidating at first so a space to discuss the challenges has been created to discuss and develop tools in an informal environment. It’ll be assumed that we’re all new to coding and this will be a ‘safe-space’ where we can ask any questions, no matter how small or large and work together to answer them. Some background talks are available here from the Icon ‘Together at Home’ webinar series below. This space is not limited to Conservators and anybody interested in using data science in the cultural heritage.  
 
 ## Data Science 
 
@@ -48,3 +48,8 @@ A summary of the data science workflow is presented from Hadley Wickam's website
 
 **'Using online and open apps for preventive conservation'**, Dr Josep Grau-Bové
 {{< youtube EAXc_ZuX2dE >}} 
+
+
+Some interesting talks: 
+
+{{< youtube JLs01Z5baSU>}}
