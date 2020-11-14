@@ -10,7 +10,6 @@ keywords:
 - concode
 - R
 - python
-- coding
 metaAlignment: center
 tags:
 - data science
