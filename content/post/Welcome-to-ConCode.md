@@ -52,4 +52,4 @@ A summary of the data science workflow is presented from Hadley Wickam's website
 
 Some interesting talks: 
 
-{{< youtube JLs01Z5baSU>}}
+# {{< youtube JLs01Z5baSU>}}
