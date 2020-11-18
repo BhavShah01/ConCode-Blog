@@ -1,0 +1,22 @@
+---
+title: First meeting 
+author: Bhavesh Shah
+date: '2020-11-08'
+slug: index.en-us
+categories:
+  - ConCode
+  - Events
+tags:
+  - concode
+keywords:
+  - tech
+---
+
+Join us for the first meeting on Thursday 19 November 2020! 
+
+<!--more-->
+
+Join us for the first meeting on Thursday 19 November 2020! This meeting will be an introdution to the group and to each other. 
+
+Slack channel link: 
+https://join.slack.com/t/concodeworkspace/shared_invite/zt-i1fvy31i-u2XMUb4gVmBtmI8Mw3Fxxg 
